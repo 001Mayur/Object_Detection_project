@@ -25,7 +25,9 @@ The following object detection techniques have been explored in this project:
     - Implementation: [Car Detection Code](./car_detection.py)
 
     <img src="car-detection-xml/assets/12109496.jpg" alt="Detection result_1" width="500"/>
+
     # result_video
+    
     <video width="640" height="360" controls>
     <source src="car-detection-xml/input_video2.mp4" type="video/mp4">
         Your browser does not support the video tag.
