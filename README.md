@@ -12,7 +12,7 @@ The following object detection techniques have been explored in this project:
 
 ### 2. Car Detection
 - Description: Car detection is essential in scenarios like autonomous driving and traffic monitoring. This technique aims to identify and locate vehicles in images or video frames.
-- Implementation: [Link to Car Detection Code](./car_detection.py)
+- Implementation: [Car Detection Code](./car_detection.py)
 
 <!-- Add more techniques and implementations as needed -->
 
