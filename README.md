@@ -23,8 +23,14 @@ The following object detection techniques have been explored in this project:
     ### 2. Haar Cascade Classifier
     - Description: Haar Cascade Classifier is a machine learning object detection method used to identify objects in images or video streams. It can be trained to detect specific objects, including cars.
     - Implementation: [Car Detection Code](./car_detection.py)
-    
+
     ![Detection result_1](car-detection-xml/assets/12109496.jpg)
+    <img src="car-detection-xml/assets/12109496.jpg" alt="Detection result_1" width="500"/>
+    # result_video
+    <video width="640" height="360" controls>
+        <source src="car-detection-xml/input_video2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 
 
 <!-- Add more techniques and implementations as needed -->
