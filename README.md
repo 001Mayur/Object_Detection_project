@@ -12,8 +12,19 @@ The following object detection techniques have been explored in this project:
 
 ### 2. Car Detection
 - Description: Car detection is essential in scenarios like autonomous driving and traffic monitoring. This technique aims to identify and locate vehicles in images or video frames.
-- Implementation: [Car Detection Code](./car_detection.py)
-![Detection result_1](car-detection-xml/assets/12109496.jpg)
+- Implementation: 
+    ## Techniques Used
+    The following car detection techniques have been explored in this project:
+
+    ### 1. YOLO (You Only Look Once)
+    - Description: YOLO is a popular real-time object detection system that processes images in a single pass. It is known for its speed and accuracy in detecting objects, including cars.
+    - Implementation: [Link to YOLO Car Detection Code](./yolo_car_detection.py)
+
+    ### 2. Haar Cascade Classifier
+    - Description: Haar Cascade Classifier is a machine learning object detection method used to identify objects in images or video streams. It can be trained to detect specific objects, including cars.
+    - Implementation: [Car Detection Code](./car_detection.py)
+    
+    ![Detection result_1](car-detection-xml/assets/12109496.jpg)
 
 
 <!-- Add more techniques and implementations as needed -->
