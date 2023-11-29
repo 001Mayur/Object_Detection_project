@@ -15,6 +15,7 @@ Detect faces in images and save the results.
 ![output6](HOG/output/hog_face_detection_image6.png)
 
 the output of blur image. very well!
+
 ![output2](HOG/output/hog_face_detection_image2.png)
 ![output4](HOG/output/hog_face_detection_image4.png)
 
