@@ -27,11 +27,11 @@ The face detection scripts in this project leverage two distinct techniques for 
    #### output
     - image
 
-    ![image_output_HOG](face_detction/HOG/output/hog_face_detection_image.png)
+    ![image_output_HOG](face_detection/HOG/output/hog_face_detection_image.png)
 
     - video
 
-    ![video_output_HOG](face_detction/HOG/output/videogif.gif)
+    ![video_output_HOG](face_detection/HOG/output/videogif.gif)
 
 2. **Convolutional Neural Network (CNN)**
    - Uses the dlib CNN face detection model for improved accuracy.
@@ -41,11 +41,11 @@ The face detection scripts in this project leverage two distinct techniques for 
    #### output
     - image
 
-    ![image_output_HOG](face_detction/HOG/output/hog_face_detection_image.png)
+    ![image_output_HOG](face_detection/HOG/output/hog_face_detection_image.png)
 
     - video
     
-    ![video_output_HOG](face_detction/HOG/output/videogif.gif)
+    ![video_output_HOG](face_detection/HOG/output/videogif.gif)
 
 - ### Features
 
